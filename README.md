@@ -1,6 +1,6 @@
 # IEL_MLFlow_Temp
 
-1.Criar o ambinete Conda seguindo os passos abaixo: 
+1. Criar o ambinete Conda seguindo os passos abaixo: 
   Baixar o arquivo "MLFlow_env.yml" Executar o comando abaixo no Anaconda Prompt:
     conda env create -f MLFlow_env.yml
     Ativar o ambiente Conda executando o comando no Anaconda Prompt: activate ML_Temp_Predic
